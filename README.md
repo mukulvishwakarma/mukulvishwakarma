@@ -28,7 +28,7 @@ I'm a passionate developer with a strong background in building web applications
 
 ## 📫 Get in Touch
 I'm always open to discussing new projects, collaborations, or any exciting opportunities! Feel free to reach out to me at:
-- Email: mukulvishwakarma01@gmail.com
+- Email: mukulvishwakarma01@gmail.com 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mukulvishwakarma/)
 
 ## 🎉 Fun Fact
